@@ -1,0 +1,11 @@
+// git check
+// 
+
+/*
+logThis
+
+if 
+  ? 
+  :
+
+*/
